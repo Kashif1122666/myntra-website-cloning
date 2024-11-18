@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+}
+
+.container{
+    max-width: 80vw;
+    margin: auto;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.upperCase{
+    text-transform: uppercase;
+}
+.bolder{
+    font-weight: bolder;
+}
+
