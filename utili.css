@@ -26,6 +26,9 @@
 .mx-2{
     margin: 0 12px ;
 }
-.section1{
-   background: #f2f2f2; 
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.my-2{
+    margin: 12px 0;
 }
