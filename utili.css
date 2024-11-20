@@ -3,8 +3,7 @@
 }
 
 .container{
-    max-width: 80vw;
-    margin: auto;
+    padding: 0 10vw;
 }
 .item-center{
     align-items: center;
@@ -12,10 +11,21 @@
 .justify-center{
     justify-content: center;
 }
+.space-around{
+    justify-content: space-around;
+}
+.space-between{
+    justify-content: space-between;
+}
 .upperCase{
     text-transform: uppercase;
 }
 .bolder{
     font-weight: bolder;
 }
-
+.mx-2{
+    margin: 0 12px ;
+}
+.section1{
+   background: #f2f2f2; 
+}
